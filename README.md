@@ -1,4 +1,4 @@
-# Step-by-Step Guide to Building Blog/Book Audio Converter using AWS Polly
+# Building Blog/Book Audio Converter using AWS Polly
 
 ### Project Description:
 
