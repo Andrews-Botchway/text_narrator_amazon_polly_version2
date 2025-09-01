@@ -104,9 +104,9 @@ lambda_function.py
   Check cloudwatch for log events.
 
   <img width="1721" height="419" alt="Screenshot 2025-08-31 at 01 50 38" src="https://github.com/user-attachments/assets/8b93883e-0a53-4ea0-88ba-f1a5ca4d72df" />
-
+---
   <img width="1719" height="736" alt="Screenshot 2025-08-31 at 01 51 06" src="https://github.com/user-attachments/assets/230653bb-d0f1-4bbd-8492-57dd4aedd8c9" />
-
+---
   <img width="1716" height="419" alt="Screenshot 2025-08-31 at 01 50 49" src="https://github.com/user-attachments/assets/87a36dc7-96d2-4e19-8fb0-14d2c6c1b7f1" />
 
 
